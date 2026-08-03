@@ -1,4 +1,4 @@
-<h1 align="left"> Hi! I'm Leonardo, a recent Computer Science graduate from Portugal. </h1>
+<h1 align="left"> Hi there! My name is Leonardo and I'm a recent Computer Science graduate from Portugal. </h1>
 
 <br>
 <p align="left">
@@ -16,21 +16,19 @@
 <br>
 
 ## About me
- 
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
----
+
 
 ## Featured Projects
 
 **[VisitAR](https://github.com/gajonormal/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
 
 **[Oportunia](https://github.com/gajonormal/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
-
-
-<br>
 ---
-
 <br>
+<br>
+
+
 
 <a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/leonardo-gonz%C3%A1lez-martins-725354420/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
