@@ -28,7 +28,7 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 <br>
 <br>
 
-Where you can find me
+## Where you can find me
 
 <a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/leonardo-gonz%C3%A1lez-martins-725354420/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
