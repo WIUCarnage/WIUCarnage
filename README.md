@@ -19,7 +19,11 @@
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rustyb/rustyb/master/assets/dino.gif" alt="Dino Runner" width="600" />
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6ZHRxYXJ3ZXB1bmRzbzNqYnd3bWFicTZ4dmJidnd1ZzB6eGZnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" alt="Dino Runner" width="400" />
+    <br>
+    <sub> <b>Clica na imagem para jogares o jogo do Dinossauro!</b></sub>
+  </a>
 </div>
 
 ## Featured Projects
@@ -39,9 +43,8 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 
 <br>
 <div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache=false" alt="Dev Quote" />
 </div>
-
 <!--
 **WIUCarnage/WIUCarnage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
