@@ -18,6 +18,12 @@
 ## About me
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
+<h2>My GitHub Stats</h2>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WIUCarnage&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIUCarnage&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Featured Projects
 
