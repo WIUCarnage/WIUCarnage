@@ -24,11 +24,11 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 **[VisitAR](https://github.com/gajonormal/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
 
 **[Oportunia](https://github.com/gajonormal/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
----
+
 <br>
 <br>
 
-
+Where you can find me
 
 <a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/leonardo-gonz%C3%A1lez-martins-725354420/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
