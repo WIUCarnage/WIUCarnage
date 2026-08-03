@@ -18,18 +18,15 @@
 ## About me
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
-<h2>My GitHub Stats</h2>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WIUCarnage&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIUCarnage&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rustyb/rustyb/master/assets/dino.gif" alt="Dino Runner" width="600" />
+</div>
 
 ## Featured Projects
 
-**[VisitAR](https://github.com/gajonormal/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
+**[VisitAR](https://github.com/WIUCarnage/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
 
-**[Oportunia](https://github.com/gajonormal/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
+**[Oportunia](https://github.com/WIUCarnage/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
 
 <br>
 <br>
@@ -41,6 +38,9 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 <a href="https://discord.com/users/wiucarnage"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br>
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
 <!--
 **WIUCarnage/WIUCarnage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
