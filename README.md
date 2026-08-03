@@ -1,44 +1,42 @@
-## Hi! I'm Leonardo, a recent Computer Science graduate from Portugal.
+<h1 align="left"> Hi! I'm Leonardo, a recent Computer Science graduate from Portugal. </h1>
 
-## Tech Stack
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+</p>
+<br>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend, Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-## 👨‍💻 About Me
-
-
+## About me
+ 
+I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### https://github.com/gajonormal/VisitAR - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
+**[VisitAR](https://github.com/gajonormal/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
+
+**[Oportunia](https://github.com/gajonormal/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
 
 
-### https://github.com/goncalonunes23/Oportunia - Job opportunity aggregation platform, Flask backend, Azure CosmosDB, and Azure OpenAI.
-
-
+<br>
 ---
 
-## 📬 Let's Connect!
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gonz%C3%A1lez-martins-725354420/?skipRedirect=true)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leogonzalezmartins@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wiucarnage)
+<a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leonardo-gonz%C3%A1lez-martins-725354420/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/wiucarnage"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br>
 
 <!--
 **WIUCarnage/WIUCarnage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
