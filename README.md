@@ -35,6 +35,9 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 
 * **[VisitAR](https://github.com/WIUCarnage/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
 * **[Oportunia](https://github.com/WIUCarnage/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
+* **[E-Commerce Platform](https://github.com/WIUCarnage/elshaddai-boutique-hub)** - Full-stack online store built completely from scratch for selling products.
+  * **Status:** `In Progress`
+  
 
 <br>
 
