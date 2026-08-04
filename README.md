@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="65%" valign="top">
-      <h2> Hi! I'm Leonardo, a recent Computer Science graduate from Portugal. </h2>
+      <h2> Hi! I'm Leonardo, a recent Computer Engineering graduate from Portugal. </h2>
       <br>
       <h3> Tech Stack & Tools</h3>
       <p>
