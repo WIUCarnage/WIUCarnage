@@ -31,10 +31,8 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 **[VisitAR](https://github.com/WIUCarnage/VisitAR)** - Interactive tourism app with 360° panoramic visualization, geofencing, and gamification (Flutter/Firebase).
 
 **[Oportunia](https://github.com/WIUCarnage/Oportunia)** - Job opportunity aggregation platform featuring a Flask backend, Azure CosmosDB, and Azure OpenAI integration.
-
 <br>
 <br>
-
 ## Where you can find me
 
 <a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
