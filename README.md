@@ -20,9 +20,9 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake.svg">
-    <img alt="Pacman eating commits animation" src="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake.svg" style="pointer-events: none;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman eating commits animation" src="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake.svg" style="pointer-events: none;">
   </picture>
 </div>
 
