@@ -3,9 +3,8 @@
   <tr>
     <td width="65%" valign="top">
       <h2> Hi there! My name is Leonardo and I'm a recent Computer Science graduate from Portugal. </h2>
-      
-   <a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72585&width=450&lines=Future+Full-Stack+Developer;Always+learning+new+things;Focused+on+building+awesome+projects;Dattebayo!+%F0%9F%8D%B5](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72585&width=450&lines=Future+Full-Stack+Developer;Always+learning+new+things;Focused+on+building+awesome+projects;Dattebayo!+%F0%9F%8D%B5)" alt="Typing SVG" />
+      <a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F72585&width=430&lines=Future+Full-Stack+Developer;Always+learning+new+things;Focused+on+building+awesome+projects;Dattebayo!+%F0%9F%8D%B5](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F72585&width=430&lines=Future+Full-Stack+Developer;Always+learning+new+things;Focused+on+building+awesome+projects;Dattebayo!+%F0%9F%8D%B5)" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -25,8 +24,8 @@
   </p>
 </td>
 
-<td width="35%" align="center" valign="middle">
-  <img src="[https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif](https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif)" alt="Naruto Running" width="280" style="pointer-events: none;" />
+<td width="40%" align="center" valign="middle">
+  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" alt="Naruto Running" width="280" />
 </td>
   </tr>
 </table>
