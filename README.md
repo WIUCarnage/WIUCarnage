@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there! My name is Leonardo and I'm a recent Computer Science graduate from Portugal. </h1>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" alt="Naruto Running" width="400" style="pointer-events: none;" />
 </p>
 
