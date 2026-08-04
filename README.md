@@ -2,6 +2,7 @@
   <tr>
     <td width="65%" valign="top">
       <h2> Hi! I'm Leonardo, a recent Computer Science graduate from Portugal. </h2>
+      <br>
       <h3> Tech Stack & Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -16,9 +17,9 @@
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://kr.pinterest.com/pin/353110427051631590/" alt="Naruto Running" width="250" />
-    </td>
+    <td width="40%" align="center" valign="middle">
+  <img src="naruto.gif" alt="Naruto Running" width="250" />
+</td>
   </tr>
 </table>
 
