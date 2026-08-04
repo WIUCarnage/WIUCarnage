@@ -19,7 +19,11 @@
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code-eat.gif" alt="Pac-Man Animation" width="500" style="pointer-events: none;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman eating commits animation" src="https://raw.githubusercontent.com/gajonormal/gajonormal/output/github-contribution-grid-snake.svg" style="pointer-events: none;">
+  </picture>
 </div>
 
 ## Featured Projects
