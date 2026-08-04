@@ -44,7 +44,7 @@ I recently completed my degree in Computer Engineering and I'm looking for the n
 ## Where you can find me
 
 <a href="mailto:leogonzalezmartins14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/leonardo-gonzález-martins-725354420/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/leonardo-martins14"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.com/users/wiucarnage"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br>
