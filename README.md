@@ -1,5 +1,9 @@
 <h1 align="left"> Hi there! My name is Leonardo and I'm a recent Computer Science graduate from Portugal. </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" alt="Naruto Running" width="400" style="pointer-events: none;" />
+</p>
+
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -18,13 +22,11 @@
 ## About me
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake.svg">
-    <img alt="Pacman eating commits animation" src="https://raw.githubusercontent.com/WIUCarnage/WIUCarnage/output/github-contribution-grid-snake.svg" style="pointer-events: none;">
-  </picture>
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vcenter=true&width=500&lines=Ol%C3%A1!+Sou+o+WIUCarnage+%F0%9F%90%BA;Desenvolvedor+Full-Stack;A+criar+projetos+no+Antigravity;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Featured Projects
 
