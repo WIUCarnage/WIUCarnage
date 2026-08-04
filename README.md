@@ -19,11 +19,7 @@
 I recently completed my degree in Computer Engineering and I'm looking for the next step in my career. Currently, I am developing websites and exploring cybersecurity and artificial intelligence, with the possibility of pursuing a master's degree in these fields  in the near future.
 
 <div align="center">
-  <a href="https://pacman.live/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jpressy/jpressy/main/assets/pacman.gif" alt="Pac-Man Eating Commits" width="550" />
-    <br>
-    <sub>👻 <b>Waka Waka! Clica para jogares Pac-Man.</b></sub>
-  </a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code-eat.gif" alt="Pac-Man Animation" width="500" style="pointer-events: none;" />
 </div>
 
 ## Featured Projects
